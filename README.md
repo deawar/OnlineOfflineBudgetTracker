@@ -1,7 +1,7 @@
 # OnlineOfflineBudgetTracker
 
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen?style=plastic)
-        <img src="https://img.shields.io/badge/license-MIT-green?style=plastic" alt="License Badge">  [![GitHub pull-requests closed](https://img.shields.io/github/issues-pr-closed/deawar/OnlineOfflineBudgetTracker.svg?style=plastic)](https://GitHub.com/Naereen/StrapDown.js/pull/) [![GitHub stars](https://img.shields.io/github/stars/deawar/OnlineOfflineBudgetTracker.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/stargazers/)
+        <img src="https://img.shields.io/badge/license-MIT-green?style=plastic" alt="License Badge">  [![GitHub pull-requests closed](https://img.shields.io/github/issues-pr-closed/deawar/OnlineOfflineBudgetTracker.svg?style=plastic)](https://GitHub.com/deawar/OnlineOfflineBudgetTracker/pull/) [![GitHub stars](https://img.shields.io/github/stars/deawar/OnlineOfflineBudgetTracker.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/deawar/OnlineOfflineBudgetTracker/stargazers/)
 
 ## Demo
 <img src="https://github.com/deawar/OnlineOfflineBudgetTracker/blob/master/OnlineOfflineBudgetTracker.gif" alt="Demo">
