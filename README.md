@@ -4,7 +4,7 @@
         <img src="https://img.shields.io/badge/license-MIT-green?style=plastic" alt="License Badge">  [![GitHub pull-requests closed](https://img.shields.io/github/issues-pr-closed/Naereen/StrapDown.js.svg?style=plastic)](https://GitHub.com/Naereen/StrapDown.js/pull/) [![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/stargazers/)
 
 ## Demo
-<img src="https://prezi.com/view/laFRI0MbylYOWSvRisPr/" alt="Demo">
+<img src="https://github.com/deawar/OnlineOfflineBudgetTracker/blob/master/OnlineOfflineBudgetTracker.gif" alt="Demo">
 
 ## Table of Contents
 <hr>
@@ -66,7 +66,6 @@ npm run start
 This application will be used for helping teachers and students to raise charity for a good cause and showcase their talent. So, please be respectful and mindful to others
 
 <br>
-<img src="https://prezi.com/view/laFRI0MbylYOWSvRisPr/" alt="Demo">
 
 ## Questions
 
