@@ -64,7 +64,7 @@ npm run start
 ```
 
 ## Contributing
-This application will be used for helping teachers and students to raise charity for a good cause and showcase their talent. So, please be respectful and mindful to others
+This application will be used for helping students to learn about IndexDB and MongoDB. Please be respectful and mindful of others.
 
 <br>
 
