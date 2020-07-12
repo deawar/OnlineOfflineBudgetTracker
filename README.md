@@ -77,5 +77,5 @@ If you want to see more of my work please click here https://api.github.com/user
 ## Deployed App Links
 
 [GitHub Repo](https://github.com/deawar/OnlineOfflineBudgetTracker) <br>
-[Heroku](https://github.com/deawar/OnlineOfflineBudgetTracker)
+[Heroku](https://deans-on-off-budget-tracker.herokuapp.com/)
 
